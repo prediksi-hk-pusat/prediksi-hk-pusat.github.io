@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://prediksi-hk-pusat.github.io/sitemap.xml
